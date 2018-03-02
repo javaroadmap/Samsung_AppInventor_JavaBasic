@@ -1,4 +1,4 @@
-package exercise_04;
+package exercise_05;
 
 public class TestDiffType {
 
